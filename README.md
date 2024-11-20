@@ -4,9 +4,17 @@
 
 ## Installation
 
+### go
+
 ```bash
-go get github.com/EvaLLLLL/ghcld
+go install github.com/EvaLLLLL/ghcld
 ```
+
+### Binary releases
+
+You can download from the releases page.
+
+https://github.com/EvaLLLLL/ghcld/releases
 
 ### Options
 
