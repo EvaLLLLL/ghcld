@@ -7,7 +7,7 @@
 ### go
 
 ```bash
-go install github.com/EvaLLLLL/ghcld
+go install github.com/EvaLLLLL/ghcld@latest
 ```
 
 ### Binary releases
@@ -16,6 +16,9 @@ You can download from the releases page.
 
 https://github.com/EvaLLLLL/ghcld/releases
 
-### Options
+### Usage
 
-- `--init`: Modify configuration
+```bash
+ghcld
+ghcld --config # Modify configuration
+```

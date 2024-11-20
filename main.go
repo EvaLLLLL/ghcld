@@ -15,12 +15,12 @@ func main() {
 
 	fmt.Printf("%v", len("❄"))
 
-	initFlag := flag.Bool("init", false, "Initialize configuration")
+	configFlag := flag.Bool("config", false, "Initialize configuration")
 	flag.Parse()
 
 	var c *types.Config
 	var err error
-	if *initFlag {
+	if *configFlag {
 		c, err = config.InitConfig()
 		if err != nil {
 			panic("Error initializing configuration")
