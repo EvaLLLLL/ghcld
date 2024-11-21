@@ -1,6 +1,10 @@
 # ghcld
 
-`ghcld` is a lightweight tool that lets you get GitHub contribution graphs with your favorite symbols or characters.
+<img src="https://raw.githubusercontent.com/EvaLLLLL/x/main/ghcld-square.png" />
+<img src="https://raw.githubusercontent.com/EvaLLLLL/x/main/ghcld-xue.png" />
+<img src="https://raw.githubusercontent.com/EvaLLLLL/x/main/ghcld-8.png" />
+
+`ghcld` is a lightweight cli tool that lets you get GitHub contributions graphs with your favorite symbols or characters.
 
 ## Installation
 
@@ -12,7 +16,7 @@ go install github.com/EvaLLLLL/ghcld@latest
 
 ### Binary releases
 
-You can download from the releases page.
+You can download the binaries from the releases page.
 
 https://github.com/EvaLLLLL/ghcld/releases
 
